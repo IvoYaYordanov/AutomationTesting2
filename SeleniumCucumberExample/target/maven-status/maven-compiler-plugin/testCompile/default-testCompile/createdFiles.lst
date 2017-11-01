@@ -1,0 +1,8 @@
+pages\LoginPage.class
+steps\LoginStep.class
+steps\LoginStep$User.class
+steps\Hook.class
+transformation\EmailTransform.class
+transformation\SalaryCountTransformer.class
+base\BaseUtil.class
+runner\TestRunner.class
